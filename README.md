@@ -26,7 +26,7 @@ Visit http://localhost:3000
 
 `sudo docker ps`
 
-### Workin with containers
+### Working with containers
 
 Attach or connect to the nodes as follows:
 
